@@ -1,11 +1,11 @@
 # 👋 Bem-vindo
 
-Oi, meu nome é Mario, sou formado em engenharia de controle e automação e estou entrando na área de ciência de dados.
+Oi, meu nome é Mario, sou formado em engenharia de controle e automação e cursando pós graduação em ciência de dados.
 
 
 # 🚀 Expertise
 
-Ainda sou iniciante em programação, mas estou aprimorando minha base em Python, SQL e outras linguagens com foco em dados.
+Aprimorando minha base em Python, Power BI, SQL, Estatística, Machine Learnig e outras linguagens com foco em dados.
 
 # 💻 Tecnologias
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
